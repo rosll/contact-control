@@ -82,3 +82,7 @@ body {
     width: 30px;
     height: 31px;
 }
+
+.dataTables_wrapper .dataTables_filter input {
+    outline: none;
+}
